@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="200" viewBox="0 0 420 200" role="img" aria-label="GitHub stats for gr33ndev: rank B+">
+<style>
+  .title { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #3fb950; }
+  .label { font: 400 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b949e; }
+  .value { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #e6edf3; }
+  .rank  { font: 700 26px 'Segoe UI', Ubuntu, Sans-Serif; fill: #e6edf3; }
+  .sub   { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b949e; }
+</style>
+<rect x="0.5" y="0.5" width="419" height="199" rx="6" fill="#0d1117" stroke="#30363d"/>
+<text x="25" y="38" class="title">gr33ndev on GitHub</text>
+<text x="25" y="78" class="label">Commits (last year)</text><text x="235" y="78" class="value" text-anchor="end">1,498</text>
+<text x="25" y="103" class="label">Pull requests</text><text x="235" y="103" class="value" text-anchor="end">490</text>
+<text x="25" y="128" class="label">Issues</text><text x="235" y="128" class="value" text-anchor="end">280</text>
+<text x="25" y="153" class="label">Stars earned</text><text x="235" y="153" class="value" text-anchor="end">4</text>
+<text x="25" y="178" class="label">Public repos</text><text x="235" y="178" class="value" text-anchor="end">16</text>
+<g transform="translate(330 105)">
+  <circle r="40" fill="none" stroke="#1b3a24" stroke-width="7"/>
+  <circle r="40" fill="none" stroke="#3fb950" stroke-width="7" stroke-linecap="round"
+          stroke-dasharray="142.1 251.3" transform="rotate(-90)"/>
+  <text y="9" class="rank" text-anchor="middle">B+</text>
+  <text y="64" class="sub" text-anchor="middle">top 43%</text>
+</g>
+</svg>

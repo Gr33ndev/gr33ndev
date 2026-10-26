@@ -19,11 +19,23 @@ In between, I build small tools that each solve one problem well.
 #### Recently worked on
 
 <!-- TOOLS:START -->
+- **[OnMyPlate](https://github.com/Gr33ndev/OnMyPlate)**: What's on your plate across Jira, GitLab and Bitbucket, in one local, read-only dashboard · [live](https://gr33ndev.github.io/OnMyPlate/)
+- **[youth-fire-fighters-24h-practice-alerting-system](https://github.com/Gr33ndev/youth-fire-fighters-24h-practice-alerting-system)**: In this repo a software is provided which is used by the youth fire fighters for the… · [live](https://gr33ndev.github.io/youth-fire-fighters-24h-practice-alerting-system/)
+- **[ha-person-card](https://github.com/Gr33ndev/ha-person-card)**
 <!-- TOOLS:END -->
 
 All 30+ tools live on **[gr33ndev.github.io](https://gr33ndev.github.io)**
 
 <!-- CONTRIBS:START -->
+#### Recent open-source contributions
+
+- **[sebiweise/home-assistant-alamos](https://github.com/sebiweise/home-assistant-alamos)**: [feat: allow resetting the alarm count manually](https://github.com/sebiweise/home-assistant-alamos/pull/17) (open) · [+1 more](https://github.com/sebiweise/home-assistant-alamos/pulls?q=is%3Apr+author%3Agr33ndev)
+- **[anomalyco/opencode](https://github.com/anomalyco/opencode)**: [feat(core): discover models for configured OpenAI-compatible providers](https://github.com/anomalyco/opencode/pull/57161) (open)
+- **[odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus)**: [fix(ui): respect iOS safe areas, screen height and landscape layout](https://github.com/odysseus-dev/odysseus/pull/6396) (merged)
+- **[OpenRCT2/Localisation](https://github.com/OpenRCT2/Localisation)**: [de-DE: apply #2868, #2869 & #2875](https://github.com/OpenRCT2/Localisation/pull/2874) (merged) · [+8 more](https://github.com/OpenRCT2/Localisation/pulls?q=is%3Apr+author%3Agr33ndev)
+- **[mike-bronner/laravel-mixpanel](https://github.com/mike-bronner/laravel-mixpanel)**: [add laravel 11 support](https://github.com/mike-bronner/laravel-mixpanel/pull/111) (merged)
+
+Full list: **[gr33ndev.github.io/contributions](https://gr33ndev.github.io/contributions)**
 <!-- CONTRIBS:END -->
 
 #### Stack
