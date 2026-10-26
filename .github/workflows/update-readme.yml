@@ -24,7 +24,7 @@ jobs:
 
       - name: Commit if changed
         run: |
-          git add README.md assets
+          git add README.md
           if git diff --cached --quiet; then
             echo "No changes"
             exit 0

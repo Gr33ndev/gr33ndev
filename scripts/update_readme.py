@@ -182,12 +182,6 @@ def main() -> None:
     except Exception as e:  # keep the old block
         print(f"contributions: skipped ({e})")
 
-    try:
-        import stats_card
-        stats_card.main()
-    except Exception as e:  # keep the old card
-        print(f"stats card: skipped ({e})")
-
     if new != text:
         README.write_text(new, encoding="utf-8")
         print("README updated")
