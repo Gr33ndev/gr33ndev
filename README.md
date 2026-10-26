@@ -6,10 +6,12 @@ At work I help build AEB's internal framework.
 For my master's thesis I'm building a two-stage deep-learning pipeline for MRI-based brain tumor triage.
 In between, I build small tools that each solve one problem well.
 
+<a href="https://github.com/gr33ndev/gr33ndev/blob/main/scripts/stats_card.py" title="How these stats are generated (rank formula from github-readme-stats)">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
   <img alt="GitHub stats for gr33ndev" src="assets/stats-light.svg">
 </picture>
+</a>
 
 #### Start here
 
