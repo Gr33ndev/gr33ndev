@@ -26,7 +26,7 @@ All 30+ tools live on **[gr33ndev.github.io](https://gr33ndev.github.io)**
 <!-- CONTRIBS:START -->
 #### Recent open-source contributions
 
-- **[sebiweise/home-assistant-alamos](https://github.com/sebiweise/home-assistant-alamos)**: [feat: allow resetting the alarm count manually](https://github.com/sebiweise/home-assistant-alamos/pull/17) (merged) · [+1 more](https://github.com/sebiweise/home-assistant-alamos/pulls?q=is%3Apr+author%3Agr33ndev)
+- **[sebiweise/home-assistant-alamos](https://github.com/sebiweise/home-assistant-alamos)**: [feat: add an event entity per webhook](https://github.com/sebiweise/home-assistant-alamos/pull/20) (merged) · [+2 more](https://github.com/sebiweise/home-assistant-alamos/pulls?q=is%3Apr+author%3Agr33ndev)
 - **[anomalyco/opencode](https://github.com/anomalyco/opencode)**: [feat(core): discover models for configured OpenAI-compatible providers](https://github.com/anomalyco/opencode/pull/57161) (open)
 - **[odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus)**: [fix(ui): respect iOS safe areas, screen height and landscape layout](https://github.com/odysseus-dev/odysseus/pull/6396) (merged)
 - **[OpenRCT2/Localisation](https://github.com/OpenRCT2/Localisation)**: [de-DE: apply #2868, #2869 & #2875](https://github.com/OpenRCT2/Localisation/pull/2874) (merged) · [+8 more](https://github.com/OpenRCT2/Localisation/pulls?q=is%3Apr+author%3Agr33ndev)
