@@ -16,9 +16,9 @@ In between, I build small tools that each solve one problem well.
 #### Recently worked on
 
 <!-- TOOLS:START -->
+- **[revive-private-pages](https://github.com/Gr33ndev/revive-private-pages)**
 - **[OnMyPlate](https://github.com/Gr33ndev/OnMyPlate)**: What's on your plate across Jira, GitLab and Bitbucket, in one local, read-only dashboard · [live](https://gr33ndev.github.io/OnMyPlate/)
 - **[youth-fire-fighters-24h-practice-alerting-system](https://github.com/Gr33ndev/youth-fire-fighters-24h-practice-alerting-system)**: In this repo a software is provided which is used by the youth fire fighters for the… · [live](https://gr33ndev.github.io/youth-fire-fighters-24h-practice-alerting-system/)
-- **[ha-person-card](https://github.com/Gr33ndev/ha-person-card)**
 <!-- TOOLS:END -->
 
 All 30+ tools live on **[gr33ndev.github.io](https://gr33ndev.github.io)**
