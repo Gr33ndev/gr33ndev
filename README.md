@@ -26,11 +26,11 @@ All 30+ tools live on **[gr33ndev.github.io](https://gr33ndev.github.io)**
 <!-- CONTRIBS:START -->
 #### Recent open-source contributions
 
+- **[petitlapin/Li-Ri](https://github.com/petitlapin/Li-Ri)**: [macOS: build a self-contained Li-ri.app bundle](https://github.com/petitlapin/Li-Ri/pull/126) (open)
 - **[DarwinsBuddy/WienerNetzeSmartmeter](https://github.com/DarwinsBuddy/WienerNetzeSmartmeter)**: [feat: optional cost and compensation statistics](https://github.com/DarwinsBuddy/WienerNetzeSmartmeter/pull/372) (open) · [+1 more](https://github.com/DarwinsBuddy/WienerNetzeSmartmeter/pulls?q=is%3Apr+author%3Agr33ndev)
 - **[sebiweise/home-assistant-alamos](https://github.com/sebiweise/home-assistant-alamos)**: [feat: add an event entity per webhook](https://github.com/sebiweise/home-assistant-alamos/pull/20) (merged) · [+2 more](https://github.com/sebiweise/home-assistant-alamos/pulls?q=is%3Apr+author%3Agr33ndev)
 - **[anomalyco/opencode](https://github.com/anomalyco/opencode)**: [feat(core): discover models for configured OpenAI-compatible providers](https://github.com/anomalyco/opencode/pull/57161) (open)
 - **[odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus)**: [fix(ui): respect iOS safe areas, screen height and landscape layout](https://github.com/odysseus-dev/odysseus/pull/6396) (merged)
-- **[OpenRCT2/Localisation](https://github.com/OpenRCT2/Localisation)**: [de-DE: apply #2868, #2869 & #2875](https://github.com/OpenRCT2/Localisation/pull/2874) (merged) · [+8 more](https://github.com/OpenRCT2/Localisation/pulls?q=is%3Apr+author%3Agr33ndev)
 
 Full list: **[gr33ndev.github.io/contributions](https://gr33ndev.github.io/contributions)**
 <!-- CONTRIBS:END -->
